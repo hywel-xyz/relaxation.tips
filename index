@@ -1,0 +1,104 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Relaxation Tips</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      margin: 0; padding: 0;
+      background: #f5f9f8;
+      color: #333;
+      line-height: 1.6;
+    }
+    header {
+      background: #cce6e2;
+      padding: 40px 20px;
+      text-align: center;
+    }
+    header h1 {
+      margin: 0;
+      font-size: 2.5em;
+    }
+    .content {
+      max-width: 800px;
+      margin: 40px auto;
+      padding: 0 20px;
+    }
+    .tip {
+      background: #ffffff;
+      padding: 20px;
+      border-radius: 12px;
+      box-shadow: 0 2px 4px rgba(0,0,0,0.05);
+      margin-bottom: 20px;
+    }
+    .tip h2 {
+      margin-top: 0;
+    }
+    .cta {
+      background: #d1f0e9;
+      text-align: center;
+      padding: 30px 20px;
+      border-radius: 12px;
+    }
+    .cta a {
+      display: inline-block;
+      margin-top: 10px;
+      padding: 12px 20px;
+      background: #3eaa92;
+      color: white;
+      text-decoration: none;
+      border-radius: 8px;
+    }
+    footer {
+      text-align: center;
+      font-size: 0.9em;
+      padding: 30px 20px;
+      color: #777;
+    }
+  </style>
+</head>
+<body>
+
+  <header>
+    <h1>Relaxation Tips</h1>
+    <p>Simple ways to relax your body and mind – anytime, anywhere.</p>
+  </header>
+
+  <div class="content">
+
+    <div class="tip">
+      <h2>1. Try the 4-7-8 Breathing Technique</h2>
+      <p>Inhale for 4 seconds, hold for 7, exhale for 8. Repeat for 3-4 rounds to calm your nervous system fast.</p>
+    </div>
+
+    <div class="tip">
+      <h2>2. Use a Guided Meditation App</h2>
+      <p>Apps like <a href="https://www.calm.com/" target="_blank">Calm</a> or <a href="https://www.headspace.com/" target="_blank">Headspace</a> offer short meditations for stress relief.</p>
+    </div>
+
+    <div class="tip">
+      <h2>3. Aromatherapy Works Wonders</h2>
+      <p>Scents like lavender, eucalyptus, and chamomile can promote deep relaxation. <a href="https://amzn.to/your-affiliate-link" target="_blank">Check out this top-rated essential oil diffuser</a>.</p>
+    </div>
+
+    <div class="tip">
+      <h2>4. Move Your Body Gently</h2>
+      <p>Stretch, walk, or do a few yoga poses. Movement helps clear mental clutter and reset your mood.</p>
+    </div>
+
+    <div class="cta">
+      <h2>Want More Calm in Your Life?</h2>
+      <p>Download our free “7-Day Relaxation Challenge” PDF and start feeling better fast.</p>
+      <a href="#">Get the Free Guide</a>
+    </div>
+
+  </div>
+
+  <footer>
+    &copy; 2025 relaxation.tips &nbsp;|&nbsp; Affiliate links may be included.
+  </footer>
+
+</body>
+</html>
